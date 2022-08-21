@@ -31,5 +31,5 @@ while x==1:
 
     if x==2:
         break
-print("Koniec programu")
+print("Koniec program")
 
